@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "..\SingleResponsibility\SingleResponsibility.csproj", "{91647E0C-960B-41F7-BDC6-CA9CDEF75FA2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{03C304A5-DFBF-4F23-BF5B-50BA9C248BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClose", "..\OpenClose\OpenClose.csproj", "{DD9B32FF-17C2-4CB6-BF7F-C7378AF32B4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,10 @@ Global
 		{91647E0C-960B-41F7-BDC6-CA9CDEF75FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91647E0C-960B-41F7-BDC6-CA9CDEF75FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91647E0C-960B-41F7-BDC6-CA9CDEF75FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9B32FF-17C2-4CB6-BF7F-C7378AF32B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9B32FF-17C2-4CB6-BF7F-C7378AF32B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9B32FF-17C2-4CB6-BF7F-C7378AF32B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9B32FF-17C2-4CB6-BF7F-C7378AF32B4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
